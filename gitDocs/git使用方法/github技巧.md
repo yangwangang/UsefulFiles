@@ -46,4 +46,4 @@ git中的config中配置了如下；
 
 
 
-开启tortoise git更新公司的私有git和github账号同时使用的新时代；通过windows凭据   解决这个问题。Next！
+开启tortoise git更新公司的私有git和用sourceTree 更新 github账号同时使用的新时代；通过windows凭据   解决这个问题。Next！
