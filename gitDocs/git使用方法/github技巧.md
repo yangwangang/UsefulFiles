@@ -33,3 +33,17 @@ sourcetree  也遇到了身份的问题；主要是这个输入密码有点痛�
 尝试过token的方式，拉去OK  提交有些问题；（解决2021年  限制HTTPs的问题）；然后有碰到443；各种问题 。晚上放弃了   最后更新了windows的凭据
 
 第二天登录，直接OK了。
+
+
+
+当前使用的是设置了代码地址的哟；
+
+git中的config中配置了如下；
+
+[http]
+    sslVerify = false
+	proxy = http://127.0.0.1:7890
+
+
+
+开启tortoise git更新公司的私有git和github账号同时使用的新时代；通过windows凭据   解决这个问题。Next！
